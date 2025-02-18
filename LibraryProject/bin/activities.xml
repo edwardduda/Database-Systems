@@ -1,0 +1,114 @@
+<activities>
+<borrowedBy>
+<memberBy> 2011 </memberBy>
+<ISBN> 96-42103-10800 </ISBN>
+<library> Main </library>
+<checkoutDate> N/A </checkoutDate>
+<Checkin_date> 06/10/2016 </Checkin_date>
+</borrowedBy>
+<borrowedBy>
+<memberBy> 2011 </memberBy>
+<ISBN> 96-42103-10011 </ISBN>
+<library> South Park </library>
+<checkoutDate> 06/10/2016 </checkoutDate>
+<Checkin_date> N/A </Checkin_date>
+</borrowedBy>
+<borrowedBy>
+<memberBy> 2011 </memberBy>
+<ISBN> 96-42103-10006 </ISBN>
+<library> Main </library>
+<checkoutDate> 06/10/2016 </checkoutDate>
+<Checkin_date> N/A </Checkin_date>
+</borrowedBy>
+<borrowedBy>
+<memberBy> 2012 </memberBy>
+<ISBN> 96-42103-10002 </ISBN>
+<library> Main </library>
+<checkoutDate> N/A </checkoutDate>
+<Checkin_date> 06/10/2016 </Checkin_date>
+</borrowedBy>
+<borrowedBy>
+<memberBy> 2012 </memberBy>
+<ISBN> 96-42103-10604 </ISBN>
+<library> South Park </library>
+<checkoutDate> 06/10/2016 </checkoutDate>
+<Checkin_date> N/A </Checkin_date>
+</borrowedBy>
+<borrowedBy>
+<memberBy> 2012 </memberBy>
+<ISBN> 96-42103-10709 </ISBN>
+<library> Main </library>
+<checkoutDate> 06/10/2016 </checkoutDate>
+<Checkin_date> N/A </Checkin_date>
+</borrowedBy>
+<borrowedBy>
+<memberBy> 2012 </memberBy>
+<ISBN> 97-34506-10709 </ISBN>
+<library> Main </library>
+<checkoutDate> 06/10/2016 </checkoutDate>
+<Checkin_date> N/A </Checkin_date>
+</borrowedBy>
+<borrowedBy>
+<memberBy> 1400 </memberBy>
+<ISBN> 96-42103-10022 </ISBN>
+<library> South Park </library>
+<checkoutDate> 06/10/2016 </checkoutDate>
+<Checkin_date> N/A </Checkin_date>
+</borrowedBy>
+<borrowedBy>
+<memberBy> 2020 </memberBy>
+<ISBN> 96-42103-10401 </ISBN>
+<library> Main </library>
+<checkoutDate> N/A </checkoutDate>
+<Checkin_date> 06/11/2016 </Checkin_date>
+</borrowedBy>
+<borrowedBy>
+<memberBy> 2020 </memberBy>
+<ISBN> 96-42103-10709 </ISBN>
+<library> South Park </library>
+<checkoutDate> 06/11/2016 </checkoutDate>
+<Checkin_date> N/A </Checkin_date>
+</borrowedBy>
+<borrowedBy>
+<memberBy> 2022 </memberBy>
+<ISBN> 96-42103-11003 </ISBN>
+<library> Main </library>
+<checkoutDate> N/A </checkoutDate>
+<Checkin_date> 06/11/2016 </Checkin_date>
+</borrowedBy>
+<borrowedBy>
+<memberBy> 2022 </memberBy>
+<ISBN> 96-42103-10109 </ISBN>
+<library> Main </library>
+<checkoutDate> N/A </checkoutDate>
+<Checkin_date> 06/11/2016 </Checkin_date>
+</borrowedBy>
+<borrowedBy>
+<memberBy> 2022 </memberBy>
+<ISBN> 96-42103-10093 </ISBN>
+<library> South Park </library>
+<checkoutDate> 06/11/2016 </checkoutDate>
+<Checkin_date> N/A </Checkin_date>
+</borrowedBy>
+<borrowedBy>
+<memberBy> 2022 </memberBy>
+<ISBN> 97-12413-10093 </ISBN>
+<library> Main </library>
+<checkoutDate> 06/11/2016 </checkoutDate>
+<Checkin_date> N/A </Checkin_date>
+</borrowedBy>
+<borrowedBy>
+<memberBy> 1800 </memberBy>
+<ISBN> 96-42103-10093 </ISBN>
+<library> Main </library>
+<checkoutDate> 06/11/2016 </checkoutDate>
+<Checkin_date> N/A </Checkin_date>
+</borrowedBy>
+<borrowedBy>
+<memberBy> 1800 </memberBy>
+<ISBN> 96-42103-11709 </ISBN>
+<library> Main </library>
+<checkoutDate> 06/11/2016 </checkoutDate>
+<Checkin_date> N/A </Checkin_date>
+</borrowedBy>
+</activities>
