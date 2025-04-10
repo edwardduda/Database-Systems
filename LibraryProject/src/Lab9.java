@@ -7,9 +7,10 @@ import org.w3c.dom.*;
 public class Lab9 {
     public static void main(String[] args) {
         // JDBC connection details
-        String url = "jdbc:mysql://faure/edwardd";
-        String sqlUserName = "edwardd";
-        String sqlPassword = "836234659";
+        String url = "";
+        // I deleted my login info
+        String sqlUserName = "";
+        String sqlPassword = "";
 
         // File path to the XML file
         String filePath = "src/activities.xml";
